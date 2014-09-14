@@ -27,5 +27,6 @@
 - (IBAction)buttonPressed:(id)sender {
     
     NSLog(@"Button is pressed");
+    NSLog(@"Test test test");
 }
 @end
