@@ -28,5 +28,6 @@
     
     NSLog(@"Button is pressed");
     NSLog(@"Test test test");
+    NSLog(@"Test lagi");
 }
 @end
